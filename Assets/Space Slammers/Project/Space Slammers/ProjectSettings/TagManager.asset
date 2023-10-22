@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - RegularWave
+  - MinibossWave
+  - BossWave
+  - Data
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3968916135
+    locked: 0
+  - name: Particle
+    uniqueID: 3590226543
+    locked: 0
+  - name: Enemy
+    uniqueID: 304917261
+    locked: 0
+  - name: Projectile
+    uniqueID: 1805400475
+    locked: 0
+  - name: Miniboss
+    uniqueID: 2225193777
+    locked: 0
+  - name: Player
+    uniqueID: 2714429753
+    locked: 0
+  - name: Boss
+    uniqueID: 4224435855
+    locked: 0
+  - name: UI
+    uniqueID: 3568859309
+    locked: 0

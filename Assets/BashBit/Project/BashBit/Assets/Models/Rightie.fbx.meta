@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 0b0d75c6f8a03b743898f2069b7732cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.002_end
+    100008: Bone.004
+    100010: Bone.005
+    100012: Bone.006
+    100014: Bone.006_end
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.009_end
+    100024: Bone.010
+    100026: Bone.011
+    100028: Bone.012
+    100030: Bone.012_end
+    100032: Bone.013
+    100034: Bone.014
+    100036: Bone.015
+    100038: Bone.015_end
+    100040: Icosphere.006
+    100042: //RootNode
+    100044: Sphere.016
+    100046: Sphere.034
+    100048: Sphere.035
+    100050: Sphere.036
+    100052: Sphere.037
+    100054: Sphere.038
+    100056: Sphere.039
+    100058: Sphere.040
+    100060: Sphere.041
+    100062: Sphere.042
+    100064: Sphere.043
+    100066: Sphere.044
+    100068: Sphere.045
+    100070: Sphere.046
+    100072: Sphere.047
+    100074: Sphere.048
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.002_end
+    400008: Bone.004
+    400010: Bone.005
+    400012: Bone.006
+    400014: Bone.006_end
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.009_end
+    400024: Bone.010
+    400026: Bone.011
+    400028: Bone.012
+    400030: Bone.012_end
+    400032: Bone.013
+    400034: Bone.014
+    400036: Bone.015
+    400038: Bone.015_end
+    400040: Icosphere.006
+    400042: //RootNode
+    400044: Sphere.016
+    400046: Sphere.034
+    400048: Sphere.035
+    400050: Sphere.036
+    400052: Sphere.037
+    400054: Sphere.038
+    400056: Sphere.039
+    400058: Sphere.040
+    400060: Sphere.041
+    400062: Sphere.042
+    400064: Sphere.043
+    400066: Sphere.044
+    400068: Sphere.045
+    400070: Sphere.046
+    400072: Sphere.047
+    400074: Sphere.048
+    2100000: Material.002
+    2100002: Material
+    2100004: Material.003
+    2300000: Icosphere.006
+    2300002: Sphere.016
+    2300004: Sphere.034
+    2300006: Sphere.035
+    2300008: Sphere.036
+    2300010: Sphere.037
+    2300012: Sphere.038
+    2300014: Sphere.039
+    2300016: Sphere.040
+    2300018: Sphere.041
+    2300020: Sphere.042
+    2300022: Sphere.043
+    2300024: Sphere.044
+    2300026: Sphere.045
+    2300028: Sphere.046
+    2300030: Sphere.047
+    2300032: Sphere.048
+    3300000: Icosphere.006
+    3300002: Sphere.016
+    3300004: Sphere.034
+    3300006: Sphere.035
+    3300008: Sphere.036
+    3300010: Sphere.037
+    3300012: Sphere.038
+    3300014: Sphere.039
+    3300016: Sphere.040
+    3300018: Sphere.041
+    3300020: Sphere.042
+    3300022: Sphere.043
+    3300024: Sphere.044
+    3300026: Sphere.045
+    3300028: Sphere.046
+    3300030: Sphere.047
+    3300032: Sphere.048
+    4300000: Sphere.034
+    4300002: Sphere.016
+    4300004: Icosphere.006
+    4300006: Sphere.047
+    4300008: Sphere.048
+    4300010: Sphere.038
+    4300012: Sphere.039
+    4300014: Sphere.040
+    4300016: Sphere.037
+    4300018: Sphere.041
+    4300020: Sphere.046
+    4300022: Sphere.036
+    4300024: Sphere.042
+    4300026: Sphere.045
+    4300028: Sphere.035
+    4300030: Sphere.043
+    4300032: Sphere.044
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: c55a75cb2bc57934fa4f0959922c5187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 4be2d917732124642b98ddf5b982f98e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: c55a75cb2bc57934fa4f0959922c5187, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

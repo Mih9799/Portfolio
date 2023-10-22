@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 6b7ee7d1cd0a9b1449de74666f18387f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_001
+    100004: Bone_002
+    100006: Bone_003
+    100008: Bone_004
+    100010: Bone_005
+    100012: Bone_006
+    100014: Bone_007
+    100016: Bone_008
+    100018: Bone_009
+    100020: Bone_010
+    100022: Bone_011
+    100024: Bone_012
+    100026: Bone_013
+    100028: Bone_014
+    100030: Bone_015
+    100032: Bone_016
+    100034: Bone_017
+    100036: Bone_018
+    100038: Bone_019
+    100040: Bone_020
+    100042: Cube_005
+    100044: Cube_006
+    100046: Cube_007
+    100048: Cube_008
+    100050: Cube_009
+    100052: Cube_010
+    100054: Icosphere
+    100056: Sergent
+    100058: //RootNode
+    100060: Sphere_001
+    100062: Sphere_002
+    100064: Sphere_003
+    100066: Sphere_004
+    100068: Sphere_005
+    100070: Sphere_007
+    100072: Sphere_008
+    100074: Vert_004
+    100076: Vert_005
+    100078: Vert_006
+    100080: Vert_007
+    100082: Vert_008
+    100084: Vert_009
+    400000: Bone
+    400002: Bone_001
+    400004: Bone_002
+    400006: Bone_003
+    400008: Bone_004
+    400010: Bone_005
+    400012: Bone_006
+    400014: Bone_007
+    400016: Bone_008
+    400018: Bone_009
+    400020: Bone_010
+    400022: Bone_011
+    400024: Bone_012
+    400026: Bone_013
+    400028: Bone_014
+    400030: Bone_015
+    400032: Bone_016
+    400034: Bone_017
+    400036: Bone_018
+    400038: Bone_019
+    400040: Bone_020
+    400042: Cube_005
+    400044: Cube_006
+    400046: Cube_007
+    400048: Cube_008
+    400050: Cube_009
+    400052: Cube_010
+    400054: Icosphere
+    400056: Sergent
+    400058: //RootNode
+    400060: Sphere_001
+    400062: Sphere_002
+    400064: Sphere_003
+    400066: Sphere_004
+    400068: Sphere_005
+    400070: Sphere_007
+    400072: Sphere_008
+    400074: Vert_004
+    400076: Vert_005
+    400078: Vert_006
+    400080: Vert_007
+    400082: Vert_008
+    400084: Vert_009
+    2100000: Material_004__Untitled_001
+    2100002: Material_002__Untitled_001
+    2100004: Material_003__Untitled_001
+    4300000: Vert_004
+    4300002: Sphere_005
+    4300004: Vert_005
+    4300006: Sphere_007
+    4300008: Sphere_008
+    4300010: Icosphere
+    4300012: Vert_006
+    4300014: Sphere_001
+    4300016: Vert_007
+    4300018: Sphere_002
+    4300020: Cube_006
+    4300022: Cube_007
+    4300024: Cube_005
+    4300026: Vert_009
+    4300028: Sphere_004
+    4300030: Vert_008
+    4300032: Sphere_003
+    4300034: Cube_008
+    4300036: Cube_010
+    4300038: Cube_009
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube_005
+    13700002: Cube_006
+    13700004: Cube_007
+    13700006: Cube_008
+    13700008: Cube_009
+    13700010: Cube_010
+    13700012: Icosphere
+    13700014: Sphere_001
+    13700016: Sphere_002
+    13700018: Sphere_003
+    13700020: Sphere_004
+    13700022: Sphere_005
+    13700024: Sphere_007
+    13700026: Sphere_008
+    13700028: Vert_004
+    13700030: Vert_005
+    13700032: Vert_006
+    13700034: Vert_007
+    13700036: Vert_008
+    13700038: Vert_009
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Untitled_001
+    second: {fileID: 2100000, guid: 4be2d917732124642b98ddf5b982f98e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__Untitled_001
+    second: {fileID: 2100000, guid: dc019d69f8377004ab4cae15f0c210e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__Untitled_001
+    second: {fileID: 2100000, guid: dc019d69f8377004ab4cae15f0c210e0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Bone
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

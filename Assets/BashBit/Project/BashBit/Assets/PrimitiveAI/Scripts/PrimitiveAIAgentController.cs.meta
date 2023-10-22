@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6d8bf70190deeb948bd0e1cfcecca182
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HostileTarget: {instanceID: 0}
+  - meleeDamageFx: {fileID: 1710243748468166, guid: 4c3ebaba34c973f419ca59eb4792dc2f,
+      type: 3}
+  - AlertSound: {fileID: 8300000, guid: e9e6416b4c8038b42b83df9c494a898a, type: 3}
+  - awakeSound: {fileID: 8300000, guid: 496fed980ffaba2449d746b13e7274f8, type: 3}
+  - wanderSound: {fileID: 8300000, guid: 1ca27ad26b0aeb0488ef767f41bb65bb, type: 3}
+  - chasingSound: {fileID: 8300000, guid: 5b6d0c1f14f7d5a4ca6f7aeac49ae8bb, type: 3}
+  - retreatingSound: {fileID: 8300000, guid: 8adc6e9c7261d6d4d8a7667f7710bcef, type: 3}
+  - meleeSound: {fileID: 8300000, guid: 5180e9e114b45ad42b94be8086e00bba, type: 3}
+  - spottedSound: {fileID: 8300000, guid: 7c312b137822fe544b907e8a21b122d7, type: 3}
+  - lostSightSound: {fileID: 8300000, guid: d875995bd5cecc548a6612896342fe61, type: 3}
+  - rangedAttackSound: {fileID: 8300000, guid: 5c4829cfdbb10184e900ebf1a89dc478, type: 3}
+  - wayPointSound: {fileID: 8300000, guid: 5040c964c1bbacb49b04822d6f32029f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
